@@ -168,10 +168,8 @@ source crime-env/bin/activate  # Linux/Mac
 pip install -r requirements.txt
 ```
 
-### **Dataset Preparation**
-1. Download [LA Crime Data](https://data.lacity.org/Public-Safety/Crime-Data-from-2020-to-Present/2nrs-mtv8)
-2. Place the CSV file in the project directory
-3. Launch Jupyter Notebook: `jupyter notebook app.ipynb`
+1. Place the CSV file in the project directory
+2. Launch Jupyter Notebook: `jupyter notebook app.ipynb`
 
 ### **Running the Analysis**
 ```python
@@ -269,7 +267,7 @@ If you use this project in academic research, please cite:
 
 ### **Connect with the Developer**
 - 🐙 **GitHub**: [@aydinmuhammed0534](https://github.com/aydinmuhammed0534)
-- 💼 **LinkedIn**: [Connect for collaboration opportunities]
+- 💼 **LinkedIn**: [https://www.linkedin.com/in/muhammed-ayd%C4%B1n-224084204/]
 - 📧 **Email**: [Professional inquiries]
 - 🐛 **Issues**: [Report bugs or request features](https://github.com/aydinmuhammed0534/la-crime-analytics/issues)
 
